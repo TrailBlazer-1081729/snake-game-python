@@ -31,6 +31,10 @@ A classic Snake Game built using Python Turtle Graphics and Object-Oriented Prog
 - ← : Move Left
 - → : Move Right
 
+## Preview
+
+![Snake Game Demo](Animation.gif)
+
 ## How to Run
 
 ```bash
